@@ -1,0 +1,18 @@
+﻿Build started 4/4/2022 2:59:47 PM.
+     1>Project "D:\Georgi_SIT_2a\Kontrolno\GI545\GI545\GI545.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GI545.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GI545.cpp
+         GI545.cpp
+     1>d:\georgi_sit_2a\kontrolno\gi545\gi545\gi545.cpp(173): error C2360: initialization of 'hMenu' is skipped by 'case' label
+                 d:\georgi_sit_2a\kontrolno\gi545\gi545\gi545.cpp(140) : see declaration of 'hMenu'
+     1>d:\georgi_sit_2a\kontrolno\gi545\gi545\gi545.cpp(183): error C2360: initialization of 'hMenu' is skipped by 'case' label
+                 d:\georgi_sit_2a\kontrolno\gi545\gi545\gi545.cpp(140) : see declaration of 'hMenu'
+     1>d:\georgi_sit_2a\kontrolno\gi545\gi545\gi545.cpp(188): error C2360: initialization of 'hMenu' is skipped by 'case' label
+                 d:\georgi_sit_2a\kontrolno\gi545\gi545\gi545.cpp(140) : see declaration of 'hMenu'
+     1>d:\georgi_sit_2a\kontrolno\gi545\gi545\gi545.cpp(191): error C2361: initialization of 'hMenu' is skipped by 'default' label
+                 d:\georgi_sit_2a\kontrolno\gi545\gi545\gi545.cpp(140) : see declaration of 'hMenu'
+     1>Done Building Project "D:\Georgi_SIT_2a\Kontrolno\GI545\GI545\GI545.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10
